@@ -3,7 +3,7 @@ title: 🪴 Quartz 3.
 enableToc: false
 ---
 
-Flipping just work
+[[State camp 2023 Packing list.md]]
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
