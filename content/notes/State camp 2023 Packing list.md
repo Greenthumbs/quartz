@@ -1,3 +1,7 @@
+---
+title: "State camp packing list"
+---
+
 ### Clothing
 - [ ] Clothes
 	- [ ] Shirts 5x
